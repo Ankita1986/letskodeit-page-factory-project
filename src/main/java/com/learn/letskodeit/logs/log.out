@@ -1,0 +1,2 @@
+2020-04-22 12:04:694 INFO  BrowserSelector :26 - Launching Chrome Browser
+2020-04-22 12:04:956 INFO  HomePage :35 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (3751a2f16e52f4035d24e8080377d537)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
